@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab07-DataBase</string>
+    <string name="lab_insert">Insert</string>
+    <string name="lab_replace">Replace</string>
+    <string name="lab_select">Select</string>
+    <string name="lab_delete">Delete</string>
+    <string name="lab_key" />
+    <string name="lab_key1">Key</string>
+    <string name="lab_value">Value</string>
+</resources>
